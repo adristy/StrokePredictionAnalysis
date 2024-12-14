@@ -3,7 +3,7 @@
 <p align="center">
   Final Project Data Mining dan Visualisasi Departemen Statistika ITS.
   <br />
-    <a href="https://www.canva.com/design/DAGZBp9JHgU/GZxibIaHQPih0MKs8pFExQ/edit?utm_content=DAGZBp9JHgU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Slide</a>
+    <a href="[https://www.canva.com/design/DAGZBp9JHgU/GZxibIaHQPih0MKs8pFExQ/edit?utm_content=DAGZBp9JHgU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGZBp9JHgU/IRyMV3lnnfqzSZFEaDNNuQ/view?utm_content=DAGZBp9JHgU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h837e0b2f9c)">Slide</a>
   ·
   <a href="https://www.youtube.com/watch?v=FP1WUWSbbgU">Video Demo</a>
   ·
