@@ -1,0 +1,12 @@
+name: stroke-prediction-analysis
+title: stroke-prediction-analysis
+username: adristyrizki
+account: adristyrizki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13592816
+bundleId: 9516321
+url: https://adristyrizki.shinyapps.io/stroke-prediction-analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
