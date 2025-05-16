@@ -14,4 +14,4 @@
 </p>
 
 ## Tentang Project
-Project ini dibuat untuk menganalisis serta menentukan model prediksi stokr dengan dataset kaggle berikut : <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset"><strong>Stroke Prediction Dataset </strong></a>.
+Project ini dibuat untuk menganalisis serta menentukan model prediksi stroke dengan dataset kaggle berikut : <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset"><strong>Stroke Prediction Dataset </strong></a>.
