@@ -16,7 +16,7 @@ library(tidyr)
 library(scales)
 
 
-#setwd("D:/Kuliah/SEM 7/Datmin/Final Project")
+#setwd("/Users/adristyrizki/Documents/Stroke Analysis")
 df_raw = read.csv("healthcare-dataset-stroke-data.csv")
 df_bersih = read.csv("datastrokeclean.csv")
 colnames(df_bersih) = c("Gender", "Age", "Hypertension", "Heart Disease", "Married",
@@ -44,10 +44,7 @@ train_data$Heart.Disease <- as.factor(train_data$Heart.Disease)
 test_data$Heart.Disease <- as.factor(test_data$Heart.Disease)
 
 # Model formula
-formula <- Stroke ~ Age + Hypertension + Average.Glucose.Level + BMI + Heart.Disease
-tuneGrid <- expand.grid(mtry = c(2, 3, 4, 5))
-set.seed(123)
-rf_model <- train(formula, data = train_data, method = "rf", tuneGrid = tuneGrid, trControl = trainControl(method = "cv"))
+rf_model <- readRDS("rf_model.rds")
 
 # Define UI
 ui <- navbarPage(
